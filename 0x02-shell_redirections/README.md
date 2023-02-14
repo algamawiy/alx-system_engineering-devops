@@ -8,3 +8,4 @@ A script that contains a text Best School
 A script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
 A script that duplicate the last line of iacta file
 Remove all file in the working directory with .js extension
+A script that counts the number of directories and sub-directories in working directory
