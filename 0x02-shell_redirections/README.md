@@ -12,3 +12,4 @@ A script that counts the number of directories and sub-directories in working di
 A script that displays the 10 newest files in the current directory.
 A script that displays third line
 Display lines containing the pattern “root” from the file /etc/passwd
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd
