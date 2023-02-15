@@ -10,3 +10,4 @@ A script that duplicate the last line of iacta file
 Remove all file in the working directory with .js extension
 A script that counts the number of directories and sub-directories in working directory
 A script that displays the 10 newest files in the current directory.
+A script that displays third line
